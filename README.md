@@ -1,2 +1,2 @@
 # pagination
-This file only create for pagination with Php and Mysql
+This file only create for pagination with Php
